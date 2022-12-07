@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @pintarj
+- 👀 I’m interested in HPC, compilers, algorithms, distributed systems, D&D... 
+- 🌱 I’m currently learning IC optimizations in compilers
+- ⚒️ I’m currently building [Generz](https://github.com/pintarj/generz)
+- 🐧 Linux as main OS since 2012
+- ❤️ Programming languages that...
+  - I **really** enjoy using them: _C++_, _Kotlin_
+  - I'm confident with: _C++_, _Typescript_, _Java_
+  - I'm learning/evaluating: _Rust_, _Erlang_
+  - I've ever used: C++, Typescript, Java, Kotlin, Rust, Javascript, C, Python, Assembly, SQL, Erlang, Go, Julia, C#, Lua, GLSL, Chapel, Dart, Octave, R, Prolog, Pascal, X10, PHP
+- 📫 You can reach me on:
+  - Telegram: [https://t.me/pintarj](https://t.me/pintarj)
+  - Discord: `pintarj#1839`
